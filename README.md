@@ -79,6 +79,6 @@ jupyter notebook
 
 ## Authors
 
-- Mohammad Shaique Solanki — moso00002@stud.uni-saarland.de
-- Nikolai Egorov — nieg00001@stud.uni-saarland.de
-- Chaitanya Jobanputra — chjo00006@stud.uni-saarland.de
+- Mohammad Shaique Solanki
+- Nikolai Egorov
+- Chaitanya Jobanputra
